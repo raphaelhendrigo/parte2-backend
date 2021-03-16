@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Mar 2021 22:56:13 at https://www.devmedia.com.br/html-basico-codigos-html/16596 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.devmedia.com.br/html-basico-codigos-html/16596 -O1 "D:\parte2-backend\back-end" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:56:51	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.devmedia.com.br/html-basico-codigos-html/16596)
+22:56:51	Error: 	"Not Found" (404) at link https://www.devmedia.com.br/exemplos/css/mCSB_buttons.png (from www.devmedia.com.br/exemplos/css/jquery.mCustomScrollbar.min.css)
+22:56:52	Error: 	"Not Found" (404) at link https://www.devmedia.com.br/html-basico-codigos-html/2/ (from https://www.devmedia.com.br/js/2013/prism.js)
+22:56:52	Error: 	"Not Found" (404) at link https://www.devmedia.com.br/html-basico-codigos-html/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from www.devmedia.com.br/exemplos/js/jquery.mCustomScrollbar.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 68 links scanned, 63 files written (1830820 bytes overall) [1183937 bytes received at 30357 bytes/sec], 1470364 bytes transferred using HTTP compression in 25 files, ratio 34%, 1.0 requests per connection
+(4 errors, 0 warnings, 0 messages)

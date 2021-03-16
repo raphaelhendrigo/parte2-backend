@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.devmedia.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	cjkrjcskql943pom6vgj2c8hr5
+devmedia.com.br	TRUE	/	FALSE	1999999999	bonus_diario	deleted
+
